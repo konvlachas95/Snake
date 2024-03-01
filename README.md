@@ -1,1 +1,1 @@
-# A basic snake game
+# A basic snake game. 
